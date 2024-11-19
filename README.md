@@ -1,8 +1,5 @@
   <h1>Full Stack E-Commerce Store (Demo)</h1>
-    <p>
-        Explore the demo: <a href="https://lnkd.in/d2xCrZMv" target="_blank">Full Stack E-Commerce Store</a><br>
-        Watch Demo video here : <a href="https://www.linkedin.com/posts/meet-joshi-350814227_full-stack-e-commerce-store-demo-https-activity-7147980152541528064-T-u4?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-    </p>
+
 
   <h2>Features</h2>
   <ul>
