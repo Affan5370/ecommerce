@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.497840e7.css",
+    "main.js": "/static/js/main.12d81297.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/DUMBshop3.png": "/static/media/DUMBshop3.2e4c0aa4be613c845a18.png",
+    "index.html": "/index.html",
+    "main.497840e7.css.map": "/static/css/main.497840e7.css.map",
+    "main.12d81297.js.map": "/static/js/main.12d81297.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.497840e7.css",
+    "static/js/main.12d81297.js"
+  ]
+}
